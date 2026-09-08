@@ -1,0 +1,6 @@
+{
+  "name": "Battery Charging Performance Digitizer",
+  "description": "Camera-based digitization system for battery charging performance testing, OCR readings, 1% transition analysis, and multi-sheet Excel export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
